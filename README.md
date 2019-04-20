@@ -1,1 +1,1 @@
-Starter for typescript library with karma / jasmine test
+Starter for typescript library with jest test
