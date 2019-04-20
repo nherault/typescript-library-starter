@@ -14,6 +14,6 @@ module.exports = {
       "json",
       "node"
     ],
-    "testEnvironment": "node"
+    "testEnvironment": "node",
     collectCoverage: true,    
   }
